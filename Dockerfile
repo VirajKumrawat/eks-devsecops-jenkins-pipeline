@@ -1,3 +1,4 @@
+# Dockerfile to build an image
 FROM eclipse-temurin:21
 WORKDIR /app
 COPY target/devsecops-demo-1.0.0-SNAPSHOT.jar app.jar
