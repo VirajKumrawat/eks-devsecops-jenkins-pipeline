@@ -45,7 +45,6 @@ pipeline {
     stage('Push to ECR') {
       steps {
         sh 'docker push "$IMAGE_REPO:$BUILD_NUMBER"'
-        sh 'docker push "$IMAGE_REPO:latest"'
       }
     }
     stage('Update Deployment') {
