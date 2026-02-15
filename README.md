@@ -147,22 +147,12 @@ Below is the live application running in the cluster:
 
 ---
 
-## 🚀 How to Run This Project
+🙏 Special Thanks
 
-1. Clone repository
-2. Configure Jenkins
-3. Set AWS credentials
-4. Create ECR repository
-5. Configure EKS cluster
-6. Run pipeline
+CloudWithVarJosh
 
----
-
-## 👨‍💻 Author
-
-**Viraj Kumrawat**  
-DevOps & Cloud Enthusiast  
-AWS | Kubernetes | CI/CD | DevSecOps
+Varun Joshi
+For valuable cloud learning resources and guidance.
 
 ---
 
