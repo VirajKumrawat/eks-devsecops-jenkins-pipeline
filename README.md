@@ -149,10 +149,10 @@ Below is the live application running in the cluster:
 
 🙏 Special Thanks
 
-CloudWithVarJosh
+**[CloudWithVarJosh](https://github.com/CloudWithVarJosh)**
 
-Varun Joshi
-For valuable cloud learning resources and guidance.
+**[Varun Joshi](https://github.com/CloudWithVarJosh)**
+For valuable cloud learning resources and DevOps guidance.
 
 ---
 
